@@ -1,0 +1,227 @@
+/* Resetting default margin and padding for all elements */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  margin: 20px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  overflow: hidden;
+}
+
+/* Header styles */
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Navigation styles */
+.navbar {
+  background-color: #333;
+  overflow: hidden;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: #333;
+}
+
+/* Main content styles */
+.content {
+  margin-top: 20px;
+}
+
+.content p {
+  margin-bottom: 20px;
+}
+
+/* Image styles */
+img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
+
+/* Resetting default margin and padding for all elements */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  margin: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+/* Header styles */
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Navigation styles */
+.navbar {
+  background-color: #333;
+  overflow: hidden;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: #333;
+}
+
+/* Table styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #333;
+  color: #fff;
+}
+
+/* Form styles */
+form {
+  margin-top: 20px;
+}
+
+form h3 {
+  margin-bottom: 10px;
+}
+
+form input[type="radio"],
+form input[type="text"],
+form input[type="submit"] {
+  margin-bottom: 10px;
+  display: block;
+}
+
+form input[type="submit"] {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+  background-color: #555;
+}
+
+/* Resetting default margin and padding for all elements */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  margin: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+/* Header styles */
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Navigation styles */
+.navbar {
+  background-color: #333;
+  overflow: hidden;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: #333;
+}
+
+/* Recipe styles */
+.recipe {
+  margin-top: 20px;
+}
+
+.recipe h2 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.recipe img {
+  display: block;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.recipe ol {
+  margin-left: 20px;
+}
+
+.recipe li {
+  margin-bottom: 5px;
+}
+
+.recipe h3 {
+  margin-bottom: 5px;
+}
